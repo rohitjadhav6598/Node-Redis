@@ -1,0 +1,16 @@
+{
+  "name": "node-redis",
+  "version": "1.0.0",
+  "description": "Rest Apis for redis",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit Jadhav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "redis": "^0.12.1"
+  }
+}
